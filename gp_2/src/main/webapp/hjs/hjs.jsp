@@ -24,6 +24,6 @@
 </script>
 </head>
 <body>
-hjs
+기리기리이기리 이키이는 거꾸로해도 이키이!
 </body>
 </html>
